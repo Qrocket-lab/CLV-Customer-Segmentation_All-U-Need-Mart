@@ -1,6 +1,3 @@
-# CLV-Customer-Segmentation_All-U-Need-Mart
-Customer segmentation and CLV forecasting for All-U-Need Mart, leveraging RFM analysis and predictive modeling for data-driven business recommendations.
-
 # CLV-Customer-Segmentation-All-U-Need-Mart
 
 ## Project Overview
@@ -17,7 +14,7 @@ All-U-Need Mart's management needs a clearer understanding of its customer base 
 
 1.  **Identify Distinct Customer Segments:** Categorize customers based on their purchasing behavior using RFM analysis.
 2.  **Forecast Customer Lifetime Value (CLV):** Predict the future spending and profitability of customers over the next 3 months.
-3.  **Provide Actionable Recommendations:** Translate RFM and CLV insights into concrete strategies for personalized marketing, retention, and sales optimization.
+3.  **Provide Actionable Recommendations:** Translate RFM and CLV insights into concrete strategies for personalized marketing, retention, and sales optimization for All-U-Need Mart's upcoming quarter.
 
 ## Methodology
 
@@ -49,10 +46,8 @@ This project employs a robust data analysis pipeline:
 6.  **Data Export for Visualization:**
     * Combine RFM scores, segments, and CLV predictions into a single CSV file (`customer_rfm_clv_analysis.csv`) ready for advanced visualization.
 7.  **Visualization & Dashboarding (Tableau):**
-    * Leverage Tableau to create interactive dashboards showcasing:
-        * RFM score distributions and customer segmentation.
-        * Predicted CLV distribution and CLV by segment.
-    * *Note: Tableau dashboards are typically shared via Tableau Public/Server or as static images/PDFs.*
+    * Interactive dashboards created in Tableau to visualize RFM segmentation and CLV forecasting.
+    * **Access the full presentation slides here:** [All-U-Need Mart Customer Analysis Presentation](https://docs.google.com/presentation/d/1wtHj5fs3RvwQVzrPAOzIiinIPIP_xS7DsLmem7wVn4c/edit?usp=sharing)
 8.  **Business Recommendations:**
     * Formulate actionable strategies based on the identified customer segments and their predicted lifetime value.
 
